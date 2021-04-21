@@ -1,0 +1,15 @@
+Note : 
+
+
+Dependence :
+    express : web framewoks: routes...
+    mongoose  : database
+    connect-mongoose : store session in database (reset serv without loged out)
+    express-seesion : saeesion and cookies
+    express-handlebars : template engine ()
+    dotenv : config, environment variable
+    methor-override : put, delete request from template (by defautl only get post)
+    moment : format date
+    morgan : login
+    passport : atuhenticaiton
+    passport-google-oauth20 : authenticate google
